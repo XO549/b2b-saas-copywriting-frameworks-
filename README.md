@@ -28,7 +28,7 @@ This public repository houses production-ready messaging frameworks and onboardi
 ## 🤝 Let's Optimize Your Conversion Pipeline
 Are you a technical founder, product director, or software executive bleeding trial users? Let's fix your messaging gaps cleanly from your desktop workspace.
 
-*   🎨 **Figma Layout Portfolios:** [View My Interactive Med Vault Wireframes](https://figma.com)
-*   📅 **Direct Pipeline Audit:** [Schedule a 15-Minute Strategy Session on Calendly](https://calendly.com)
+*   🎨 **Figma Layout Portfolios:** [View My Interactive Med Vault Wireframes](https://www.figma.com/file/jlciMGckgoVjM8i7g4iiuV/Landing-page-design).
+*   📅 **Direct Pipeline Audit:** [Schedule a 15-Minute Strategy Session on Calendly](calendly.com/kamsiemmanuella32)
 
 *Maintained by Vanguard Copywriting Systems LLC (Wyoming, US).*
